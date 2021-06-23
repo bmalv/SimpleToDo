@@ -26,13 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://gph.is/1DPNcfT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/bmalv/SimpleToDo/blob/master/dog.gif?raw=true)
 
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-![]()
 
 ## License
 
