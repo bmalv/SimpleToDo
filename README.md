@@ -26,13 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://gph.is/1DPNcfT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
-Gif Preview:
-[App Demo Link](dog.gif)]
+
 Describe any challenges encountered while building the app.
 
 ## License
