@@ -32,8 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-it says my gif is too big to add but here is the link!
-http://gph.is/1DPNcfT
+![]()
 
 ## License
 
