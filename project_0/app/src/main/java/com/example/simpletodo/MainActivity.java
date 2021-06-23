@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
         return new File(getFilesDir(), "data.txt");
     }
 
-    //this function will load items by reading every line of the data file.
+    //this function will load items by reading every line of the data file
     private void loadItems(){
         try {
             items = new ArrayList<>(org.apache.commons.io.FileUtils.readLines(getDataFile(), Charset.defaultCharset()));
