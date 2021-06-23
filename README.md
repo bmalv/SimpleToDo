@@ -31,7 +31,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
-
+Gif Preview:
+[App Demo Link](dog.gif)]
 Describe any challenges encountered while building the app.
 
 ## License
