@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
         return new File(getFilesDir(), "data.txt");
     }
 
-    //this function will load items by reading every line of the data file
+    //this function will load items by reading every line of the data file.
     private void loadItems(){
         try {
             items = new ArrayList<>(org.apache.commons.io.FileUtils.readLines(getDataFile(), Charset.defaultCharset()));
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //this function saves items by writing them into data file
+    //this function saves items by writing them into data file.
     private void saveItems(){
         try {
             org.apache.commons.io.FileUtils.writeLines(getDataFile(),items);
