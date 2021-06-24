@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/bmalv/SimpleToDo/blob/master/dog.gif?raw=true)
+![](https://github.com/bmalv/SimpleToDo/blob/master/toDoList.gif?raw=true)
 
 GIF created with [Kap](https://getkap.co/).
 
